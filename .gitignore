@@ -8,7 +8,7 @@
 .project
 
 # local git repo #
-##################
+###################
 .git/
 
 # Compiled class files #

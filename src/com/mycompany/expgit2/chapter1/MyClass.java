@@ -37,5 +37,5 @@ public class MyClass
 	{
 		return name;
 	}
-
+	//comment comment
 }
